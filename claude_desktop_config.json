@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "chatlog": {
+      "command": "/Users/eric_gao/.local/bin/mcp-proxy",
+      "args": ["http://localhost:5030/sse"]
+    }
+  },
+  "globalShortcut": ""
+}
